@@ -6,10 +6,7 @@
 - [Features](#features)
 - [How It Works](#how-it-works)
 - [Technologies Used](#technologies-used)
-- [Project Setup](#project-setup)
-- [Future Improvements](#future-improvements)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
